@@ -418,6 +418,7 @@
 				CC3017CC1A6A36AA001339C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CC3017CD1A6A36AA001339C9 /* Build configuration list for PBXNativeTarget "timerTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +427,7 @@
 				CC3017CF1A6A36AA001339C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
